@@ -1,0 +1,4 @@
+https://github.com/dotnet-presentations/dotnet-maui-workshop?WT.mc_id=dotnet-29192-cxa
+
+"C:\Users\jfsha\OneDrive\transfer\dev\.NET Maui\.NET Maui\maui project.mlt"
+
